@@ -45,4 +45,13 @@
 Интересно было также посмотреть, какие слова в текстах песни подходят по смыслу к выбранным нами. Для этого мы выявили коллокации этих слов.
 ![not loaded](https://pp.userapi.com/c851532/v851532711/12cbd1/4o-ulq3sEjU.jpg)
 
+А в программе Google Ngram Viewer мы можем смотреть, когда те или иные слова были более популярны в американском английском языке. Так, в период с 2000 по 2008 год, популярность слов «bad», «guy», «strange», «love», «mind» возросла еще выше, а слова «type» и «addiction» стали чуть менее употребляемыми. В обзор мы взяли наиболее частотные слова из текстов песен Билли Айлиш, которые уже были упомянуты выше.
+
+![not loaded](https://sun9-21.userapi.com/c851416/v851416486/139206/uGTb-nf1iW0.jpg)
+![not loaded](https://pp.userapi.com/c851416/v851416486/139210/3ZeMjjuKuCI.jpg)
+![not loaded](https://sun9-34.userapi.com/c851416/v851416486/13921a/_cNnt56Z8jc.jpg)
+![not loaded](https://sun9-30.userapi.com/c851416/v851416486/139224/5NSuRMRcydA.jpg)
+![not loaded](https://sun9-28.userapi.com/c851416/v851416486/13922e/5ay1DY24f6Y.jpg)
+![not loaded](https://sun9-19.userapi.com/c851416/v851416486/139238/pyXixvAGB6s.jpg)
+![not loaded](https://sun9-25.userapi.com/c851416/v851416486/139242/N8F1o4u062w.jpg)
 
