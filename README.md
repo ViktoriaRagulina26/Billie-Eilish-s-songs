@@ -5,12 +5,12 @@
 
 Мы взяли самые популярные треки:
 
-6.18.18
-Bad guy
-Copycat
-Bellyache
-Burry a friend 
-My strange addiction
+6.18.18,
+Bad guy,
+Copycat,
+Bellyache,
+Burry a friend,
+My strange addiction,
 You should see me in a crown.
 
   В своем исследовании мы использовали следующие инструменты: Voyant Tools,AntConc,Google Ngrams Viewer.
